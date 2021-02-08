@@ -16,3 +16,6 @@ dY = X * Math.sin(XZ) + Z * Math.cos(XZ);
 ```
 
 > To add your own model, change the draw function.
+
+# Dependencies:
+[Processing 3](https://processing.org/download/)
