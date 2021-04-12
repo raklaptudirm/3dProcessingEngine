@@ -19,3 +19,6 @@ dY = X * Math.sin(XZ) + Z * Math.cos(XZ);
 
 # Dependencies:
 [Processing 3](https://processing.org/download/)
+
+# License:
+MIT
